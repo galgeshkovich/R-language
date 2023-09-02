@@ -1,2 +1,2 @@
 # R-language
-R skills demonstration
+R skills demonstration + Regression skills (Simple, Multiple, loglog)
